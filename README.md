@@ -8,9 +8,3 @@ The objective of this model is to detect online payment frauds by using machine 
 3. [Heroku_Account](https://heroku.com)
 4. [GitCLI](https://git-scm.com/book/en/vn/Geting-Started-Th-Command-Line)
 
-Create a new environment 
-
-```
-conda create -p venv python==3.7 -y
-
-```
